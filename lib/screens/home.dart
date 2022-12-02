@@ -44,7 +44,6 @@ class _HomePageState extends State<HomePage> {
     );
     result();
   }
-  
   String resultado = 'Vamos jogar!';
   Color resultColor = Color.fromARGB(255, 28, 46, 212);
   int pts = 0;
